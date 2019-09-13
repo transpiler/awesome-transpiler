@@ -1,4 +1,4 @@
-# awesome-transpiler
+# Awesome Transpilers
 
 ## By Target Language
 
