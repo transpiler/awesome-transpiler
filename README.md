@@ -12,6 +12,14 @@
 
 * [VOC](https://github.com/beeware/voc) A transpiler that converts Python code into Java bytecode.
 
+
 ### Rust
 
 * [C2Rust](https://github.com/immunant/c2rust) Migrate C code to Rust.
+
+
+### JavaScript
+
+* [Shift.JS](https://github.com/shift-js/shift-js) Swift to JavaScript transpiler.
+* [ElixirScript](https://github.com/elixirscript/elixirscript) Converts Elixir to JavaScript.
+* [J2CL](https://github.com/google/j2cl) Java to Closure JavaScript transpiler.
