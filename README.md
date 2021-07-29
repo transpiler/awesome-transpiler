@@ -2,6 +2,19 @@
 
 ## By Target Language
 
+### Multi Language
+
+* [py2many](https://github.com/adsharma/py2many) py2many can transpile a subset of python to
+  * C++
+  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) extension.
+  * Go
+  * Julia
+  * Kotlin
+  * Dart
+  * Nim
+  * [V](http://vlang.io)
+
+
 ### Golang
 
 * [c2go](https://github.com/elliotchance/c2go) A tool for transpiling C to Go.
@@ -24,3 +37,4 @@
 * [ElixirScript](https://github.com/elixirscript/elixirscript) Converts Elixir to JavaScript.
 * [J2CL](https://github.com/google/j2cl) Java to Closure JavaScript transpiler.
 * [GopherJS](https://github.com/gopherjs/gopherjs) A compiler from Go to JavaScript for running Go code in a browser.
+* [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
