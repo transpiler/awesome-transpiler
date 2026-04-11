@@ -13,6 +13,10 @@
   * Dart
   * Nim
   * [V](http://vlang.io)
+* [Lateralus](https://github.com/bad-antics/lateralus-lang) A pipeline-native programming language with multiple compilation backends:
+  * C (native compilation)
+  * LLVM
+  * WASM
 
 ### Erlang
 
