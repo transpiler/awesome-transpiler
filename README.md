@@ -28,6 +28,7 @@
 ### Java
 
 * [VOC](https://github.com/beeware/voc) A transpiler that converts Python code into Java bytecode.
+* [ApkPy](https://github.com/apkpy-project/repo-apkpy) A transpiler that converts a declarative Python UI subset into native Android Java, XML layouts and a Gradle project; the APK carries no Python runtime.
 
 
 ### Rust
