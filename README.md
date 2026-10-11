@@ -24,6 +24,7 @@
 * [Grumpy](https://github.com/google/grumpy) Grumpy is a Python to Go source code transcompiler and runtime.
 * [GALA](https://github.com/martianoff/gala) A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.
 * [Godzilla](https://github.com/jingweno/godzilla) Godzilla is a ES2015 to Go source code transpiler and runtime.
+* [Gooo](https://github.com/kimjooyoon/meta-ontology-go) An experimental typed language that generates Go code from declared activities.
 
 ### Java
 
