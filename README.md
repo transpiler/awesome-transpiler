@@ -13,6 +13,13 @@
   * Dart
   * Nim
   * [V](http://vlang.io)
+* [Faber](https://github.com/faberlang/faber) An experimental language designed to be written by language models and read by people. One front end feeds code generators that emit readable source in several languages, each measured against a reference interpreter:
+  * Rust
+  * Go
+  * TypeScript
+  * Swift
+  * Python
+  * C (preview)
 
 ### Erlang
 
